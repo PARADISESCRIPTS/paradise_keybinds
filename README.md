@@ -58,7 +58,7 @@ end)
 
 ## Support
 
-For support or questions, please contact the resource author.
+For support or questions, please contact to Our Discord.
 
 ## License
 
